@@ -8,3 +8,5 @@ LLM BOOKS
 1. https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167
 2. https://learning.oreilly.com/library/view/build-a-large/9781633437166/
  
+# Building LLM for Production
+https://learning.oreilly.com/library/view/building-llms-for/9798324731472/
