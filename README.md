@@ -9,4 +9,9 @@ LLM BOOKS
 2. https://learning.oreilly.com/library/view/build-a-large/9781633437166/
  
 # Building LLM for Production
-https://learning.oreilly.com/library/view/building-llms-for/9798324731472/
+1. https://learning.oreilly.com/library/view/building-llms-for/9798324731472/
+
+
+# RAG on Gen AI
+1. https://github.com/Denis2054/RAG-Driven-Generative-AI
+2. https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/
