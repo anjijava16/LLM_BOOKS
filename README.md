@@ -20,3 +20,7 @@ LLM BOOKS
 
 # Hands-On Large Language Models
 1. https://www.amazon.co.uk/Hands-Large-Language-Models-Understanding/dp/1098150961?&linkCode=sl1&tag=webserai-21&linkId=95b4a8e74f765e8a6f5eca2fec92af6f&language=en_GB&ref_=as_li_ss_tl
+
+# RAG-Driven Generative AI
+1. https://github.com/Denis2054/RAG-Driven-Generative-AI
+2. https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/   
